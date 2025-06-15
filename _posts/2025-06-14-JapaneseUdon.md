@@ -1,8 +1,8 @@
 ---
-title: "油うどんの作り方（自分のバージョン）"
+title: "Writing Exercise: 油うどんの作り方（自分のバージョン）"
 date: 2025-06-14
 categories: [Learn Japanese]
-tags: [japanese, excercise, japan, cooking]
+tags: [japanese, excercise, life in japan, cooking]
 ---
 *9日・14月・2025年 (土)*
 

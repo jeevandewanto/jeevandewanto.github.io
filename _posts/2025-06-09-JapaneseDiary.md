@@ -1,8 +1,8 @@
 ---
-title: "ジーヴァンの一日"
+title: "Writing Exercise: ジーヴァンの一日"
 date: 2025-06-09
 categories: [Learn Japanese]
-tags: [japanese, excercise, life]
+tags: [japanese, excercise, life in japan]
 ---
 *9日・6月・2025年 (月)*
 
