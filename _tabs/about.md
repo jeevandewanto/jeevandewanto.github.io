@@ -5,8 +5,7 @@ order: 4
 liquid: true
 ---
 
-<!-- ![profilepicture]({{ '/assets/img/profile.jpg' | relative_url }}){: .left width="180" height="225"} -->
-![profilepicture](/assets/img/profile.jpg){: .left width="180" height="225"} 
+![profilepicture](\assets\img\profile.jpg){: .left width="180" height="225"} 
 
 Halo! I'm Jeevan. An Indonesian guy doing PhD in Tokyo. I have a background in Civil Engineering (in which I did my Bachelor and Masters) and now doing PhD in Mechanical Engineering, specializing in computational micromechanics. I'm currently a MEXT scholar belonging to the Matuttis Laboratory of The University of Electro-Communications (電気通信大学), based in Chofu, Tokyo.
 
