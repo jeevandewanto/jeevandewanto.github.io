@@ -2,6 +2,7 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
+liquid: true
 ---
 
 ![profilepicture]({{ '/assets/img/profile.jpg' | relative_url }}){: .left w="180" h="225"} 
