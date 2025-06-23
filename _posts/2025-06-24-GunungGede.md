@@ -9,70 +9,70 @@ August 13th 2024, me and my friends went for a camping trip to Mt. Gede, West Ja
 
 We departed early in the morning from Tangerang around 4.30 AM, or at least that was the plan. As expected some of us (just one person, actually) was late. But we still managed to arrive by 8 AM in Bogor Station. Ate some *bubur ayam* for a quick breakfast and immediately continued our journey to the hiking station.
 
-![perjalanan]({{ '/assets/img/GEDE2025/perjalananwilvan.jpg' | relative_url }})
+![perjalanan]({{ '/assets/img/gede2024/perjalananwilvan.jpg' | relative_url }})
 _That one person._
 
-![buburayamlady]({{ '/assets/img/GEDE2025/buburayamlady.jpg' | relative_url }})
+![buburayamlady]({{ '/assets/img/gede2024/buburayamlady.jpg' | relative_url }})
 _Gerobak (cart) bubur ayam, a very common style of street vending in Indonesia_
 
-![buburayam]({{ '/assets/img/GEDE2025/buburayam.jpg' | relative_url }})
+![buburayam]({{ '/assets/img/gede2024/buburayam.jpg' | relative_url }})
 _Bubur ayam, a very common breakfast in Indonesia. Basically just a chicken congee served with shredded chicken, scallions, crispy shallots, soybeans, soy sauce (both salty and sweet), kerupuk (Indonesian-style crackers), and of course sambal. Super good._
 
 Arrived at the hiking station around 10 AM, stopped by at a *warung* for a quick water refuel and phone battery recharge. We also did a quick health check-up (super simple one, just body temp and blood pressure). It was nice to know that we now have health check-up unit at the hiking station. The check-up was apparently mandatory and paid (not included in the [SIMAKSI](https://en.wiktionary.org/wiki/simaksi) cost), but it was only Rp. 25,000 per person so not a big deal.
 
-![warung]({{ '/assets/img/GEDE2025/warung.jpg' | relative_url }})
+![warung]({{ '/assets/img/gede2024/warung.jpg' | relative_url }})
 _Warung, a small traditional retail store or eatery, usually family owned._
 
-![jojos]({{ '/assets/img/GEDE2025/jojos.jpg' | relative_url }})
+![jojos]({{ '/assets/img/gede2024/jojos.jpg' | relative_url }})
 _Jojos._
 
 After submitting our SIMAKSI to the mountain ranger office, we finally begin our hike around 11 AM. Super hot, sunny day.
 
-![jojos2]({{ '/assets/img/GEDE2025/jojos2.jpg' | relative_url }})
+![jojos2]({{ '/assets/img/gede2024/jojos2.jpg' | relative_url }})
 _Jojos._
 
-![wilvan2]({{ '/assets/img/GEDE2025/wilvan2.jpg' | relative_url }})
+![wilvan2]({{ '/assets/img/gede2024/wilvan2.jpg' | relative_url }})
 _Wilvan._
 
-![james2]({{ '/assets/img/GEDE2025/james2.jpg' | relative_url }})
+![james2]({{ '/assets/img/gede2024/james2.jpg' | relative_url }})
 _James._
 
-![Me]({{ '/assets/img/GEDE2025/jeevan2.jpg' | relative_url }})
+![Me]({{ '/assets/img/gede2024/jeevan2.jpg' | relative_url }})
 _Me._
 
-![tamannational]({{ '/assets/img/GEDE2025/tamannasional.jpg' | relative_url }})
+![tamannational]({{ '/assets/img/gede2024/tamannasional.jpg' | relative_url }})
 _We were entering Mt. Gede National Park._
 
 Mt. Gede National Park is basically a tropical forest on a a stratovolcano, which means most of our track were steep slopes (resulted from thousands of years of lava flowing down) with lots of large tree roots. 
 
-![dalamhutan]({{ '/assets/img/GEDE2025/track1.jpg' | relative_url }})
+![dalamhutan]({{ '/assets/img/gede2024/track1.jpg' | relative_url }})
 _Inside the Mt. Gede National Park_
 
-![dalamhutan]({{ '/assets/img/GEDE2025/track2.jpg' | relative_url }})
+![dalamhutan]({{ '/assets/img/gede2024/track2.jpg' | relative_url }})
 _Our tracks were steep and dominated by tree roots_
 
-![dalamhutan]({{ '/assets/img/GEDE2025/track3.jpg' | relative_url }})
+![dalamhutan]({{ '/assets/img/gede2024/track3.jpg' | relative_url }})
 _The hard thing about tree root dominated tracks is that they rarely have smooth slopes. The large tree roots tend to form 'natural staircases', making the the hike feels much heavier. Imagine going up hundreds of uneven staircases where the height of the stairs varies by every step._
 
 We took our periodic rest, and stop by any *warung* we found along the track (yes, we have *warung* in the middle of the forest).
 
-![rehat1]({{ '/assets/img/GEDE2025/rehat1.jpg' | relative_url }})
+![rehat1]({{ '/assets/img/gede2024/rehat1.jpg' | relative_url }})
 _Found an abandoned shack and took our rest._
 
-![rehatjames]({{ '/assets/img/GEDE2025/rehatjames.jpg' | relative_url }})
+![rehatjames]({{ '/assets/img/gede2024/rehatjames.jpg' | relative_url }})
 
-![rehatjojos]({{ '/assets/img/GEDE2025/rehatjojos.jpg' | relative_url }})
+![rehatjojos]({{ '/assets/img/gede2024/rehatjojos.jpg' | relative_url }})
 
-![rehatwilvan]({{ '/assets/img/GEDE2025/rehatwilvan.jpg' | relative_url }})
+![rehatwilvan]({{ '/assets/img/gede2024/rehatwilvan.jpg' | relative_url }})
 
-![warunghutan]({{ '/assets/img/GEDE2025/warunghutan.jpg' | relative_url }})
+![warunghutan]({{ '/assets/img/gede2024/warunghutan.jpg' | relative_url }})
 _A warung in the middle of the forest_
 
 We finally reached our camping ground "Surya Kencana" which is a savanna located near the top of Mt. Gede. We arrived around 5 PM, making our hike around 6 hours up (not too bad I think, considering we were taking our time and not pushing ourselves too hard).
 
-![suryakencana]({{ '/assets/img/GEDE2025/suryakencana.jpg' | relative_url }})
+![suryakencana]({{ '/assets/img/gede2024/suryakencana.jpg' | relative_url }})
 _Surya Kencana. It was so sad to see lots of trash present. A little bit ashamed to show this to the internet but this was the state of Mt. Gede. We were hiking during off-season so there were not much people around. You can imagine the thrash during high-season._
 
-![edelweiss]({{ '/assets/img/GEDE2025/edelweiss.jpg' | relative_url }})
+![edelweiss]({{ '/assets/img/gede2024/edelweiss.jpg' | relative_url }})
 _Edelweiss flower, to be precise: Anaphalis javanica, the Javanese edelweiss. So, it is different than the famous Alpine's edelweiss._
 
