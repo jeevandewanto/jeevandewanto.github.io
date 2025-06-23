@@ -40,7 +40,7 @@ _James._
 ![Me](/assets/img/GEDE2025/jeevan2.jpg)
 _Me._
 
-![tamannational](/assets/img/GEDE2025/tamannational.jpg)
+![tamannational](/assets/img/GEDE2025/tamannasional.jpg)
 _We were entering Mt. Gede National Park._
 
 Mt. Gede National Park is basically a tropical forest on a a stratovolcano, which means most of our track were steep slopes (resulted from thousands of years of lava flowing down) with lots of large tree roots. 

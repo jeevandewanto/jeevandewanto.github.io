@@ -149,7 +149,8 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+url: jeevandewanto.github.io
+baseurl: /jeevandewanto.github.io/
 
 # ------------ The following options are not recommended to be modified ------------------
 
