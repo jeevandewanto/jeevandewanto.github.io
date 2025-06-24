@@ -7,12 +7,24 @@ tags: [blog, life, hobby, photography, travel]
 
 August 13th 2024, me and my friends went for a camping trip to Mt. Gede, West Java. It was our last hike together before my departure to Japan. I just want to share series of photos I took, presented with a little bit of narration.
 
-We departed early in the morning from Tangerang around 4.30 AM, or at least that was the plan. As expected some of us (just one person, actually) was late. But we still managed to arrive by 8 AM in Bogor Station. Ate some *bubur ayam* for a quick breakfast and immediately continued our journey to the hiking station.
+We departed early in the morning from Tangerang around 4.30 AM, or at least that was the plan. As expected some of us (just one person, actually) was late. But we still managed to arrive by 8 AM in Bogor Station.
 
-![perjalanan]({{ '/assets/img/gede2024/perjalananwilvan.JPG' | relative_url }})
-_That one person._
+<!-- <figure style="text-align: center;">
+	<div style="display: flex; justify-content: center; gap: 10px;">
+	  <img src="{{ '/assets/img/gede2024/perjalananwilvan.JPG' | relative_url }}" alt="Image 1" width="235">
+	  <img src="{{ '/assets/img/gede2024/perjalananjames.JPG' | relative_url }}" alt="Image 2" width="235">
+	  <img src="{{ '/assets/img/gede2024/perjalananjojos.JPG' | relative_url }}" alt="Image 2" width="235">
+	</div>
+	<figcaption style="margin-top: 8px;">Jakarta-Bogor train ride</figcaption>
+</figure> -->
+![perjalananwilvan](/assets/img/gede2024/perjalananwilvan.JPG){: w="480"} 
+<!-- ![buburayamlady]({{ '/assets/img/gede2024/buburayamlady.JPG' | relative_url }}) -->
+_Jakarta-Bogor morning train ride_
 
-![buburayamlady]({{ '/assets/img/gede2024/buburayamlady.JPG' | relative_url }})
+Ate some *bubur ayam* for a quick breakfast and immediately continued our journey to the hiking station.
+
+![buburayamlady](/assets/img/gede2024/buburayamlady.JPG){: w="480"} 
+<!-- ![buburayamlady]({{ '/assets/img/gede2024/buburayamlady.JPG' | relative_url }}) -->
 _Gerobak (cart) bubur ayam, a very common style of street vending in Indonesia_
 
 ![buburayam]({{ '/assets/img/gede2024/buburayam.JPG' | relative_url }})
